@@ -1,0 +1,31 @@
+{
+  "kind": "collectionType",
+  "collectionName": "produks",
+  "info": {
+    "singularName": "produk",
+    "pluralName": "produks",
+    "displayName": "Produk",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "NamaBarang": {
+      "type": "string"
+    },
+    "JenisBarang": {
+      "type": "string"
+    },
+    "StokBarang": {
+      "type": "integer"
+    },
+    "HargaBarang": {
+      "type": "biginteger"
+    },
+    "Supplier": {
+      "type": "string"
+    }
+  }
+}
