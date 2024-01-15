@@ -1,2 +1,0 @@
-user = rafifikrian24@gmail.com
-passwd = Rafi12345
